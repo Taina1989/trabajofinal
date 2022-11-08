@@ -1,0 +1,67 @@
+body{
+    background-color: #AFEEEE;
+}
+main{
+    width: 90%;
+    max-width: 2500px;
+    margin: 0px auto;
+}
+header #logo{
+    float: left
+}
+header{
+    height: 200px;
+    text-align: center;
+    font-size: 40px;
+    font-family: Impact;
+    color: #4682B4;
+}
+nav{
+    width: 1500px;
+    height: 45px;
+    background-color: #0000ff;
+}
+nav, ul, li{
+    margin-left: 15px;
+    margin-top: 12px;
+    list-style: none;
+}
+article p{
+    font-size: 25px;
+}
+h2,p,form{
+    margin: auto;
+    padding: 0px;
+}
+
+article section img{
+    margin: 0.5em;
+}
+p{
+    float: right;
+    font-size: 35px;
+}
+nav ul#menu li{
+    display: inline;
+    float: left;
+}
+a{
+    color: #ffffff;
+    text-decoration: none;
+}
+a:hover{
+    color: aqua;
+}
+aside form{
+    float: left;
+    color: #4682B4;
+}
+article{
+    float: left;
+}
+article header{
+    width: 1500px;
+    height: 60px;
+    font-size: 35px;
+    background-color: darkblue;
+}
